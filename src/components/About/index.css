@@ -1,0 +1,19 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 32px 0;
+}
+
+.about {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.text {
+  font-size: 24px;
+  font-weight: 600;
+  color: #551e53;
+}
